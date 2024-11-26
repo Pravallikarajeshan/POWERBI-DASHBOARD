@@ -33,4 +33,6 @@ The dataset used for this dashboard includes the following columns:
 - `ST_Slope`: Slope of the peak exercise ST segment.  
 - `HeartDisease`: Target variable (1 = heart disease, 0 = no heart disease).  
 
+![image](https://github.com/user-attachments/assets/32d43051-4e17-4799-972b-e70ede31702b)
 
+![Screenshot 2024-11-26 141654](https://github.com/user-attachments/assets/caafa723-ec26-4bc5-8bd9-af7ab9a21602)
